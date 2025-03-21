@@ -1,0 +1,84 @@
+/* BhakriPizza Styles - Bringing the Desi Fusion to Life */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f1e4;
+    color: #5a3d2b;
+}
+
+header {
+    background: #8b4513;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background: #ffefd5;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #a52a2a;
+}
+
+article {
+    background: #fff3e6;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+article h3 {
+    color: #d2691e;
+}
+
+button {
+    background: #8b0000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button:hover {
+    background: #a52a2a;
+}
+
+footer {
+    text-align: center;
+    background: #8b4513;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
